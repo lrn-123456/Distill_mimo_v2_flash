@@ -1,0 +1,14 @@
+API_KEY = "your-key"
+BASE_URL = "https://api.xiaomimimo.com/v1"
+MODEL = "mimo-v2-flash"
+
+MAX_TOKENS = 4000
+OVERLAP_TOKENS = 200
+MAX_TURNS = 10
+
+TEMPERATURE = 0.3
+MAX_OUTPUT_TOKENS = 2000
+
+REQUEST_TIMEOUT = 120
+RETRY_DELAY = 1
+MAX_RETRIES = 3
